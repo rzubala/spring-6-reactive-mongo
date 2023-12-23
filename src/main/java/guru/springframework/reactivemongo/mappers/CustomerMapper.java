@@ -4,9 +4,6 @@ import guru.springframework.reactivemongo.domain.Customer;
 import guru.springframework.reactivemongo.model.CustomerDTO;
 import org.mapstruct.Mapper;
 
-/**
- * Created by jt, Spring Framework Guru.
- */
 @Mapper
 public interface CustomerMapper {
 
